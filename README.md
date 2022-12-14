@@ -1,2 +1,7 @@
 # Tic-Tac-Toe
-Implementing a Tic Tac Toe game in a Python project.
+## Implementing multiplayer Tic Tac Toe game in a Python project.
+#### after running the python file players can replace the numbers on the playing board:
+##### 1     2     3
+##### 5     5     6
+##### 7     8     9
+#### By X or O in their turn.
